@@ -1,0 +1,7 @@
+name = "Supernova"
+uuid = "7d697ed5-e747-4ce0-86e7-28423a1d9c79"
+authors = ["Patrick Armstrong <patrick.armstrong@anu.edu.au>"]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"

@@ -1,1 +1,1 @@
-# Supernova
+[![Build Status](https://travis-ci.com/PatrickArmstrong1998/Supernova.svg?branch=master)](https://travis-ci.com/PatrickArmstrong1998/Supernova) [![codecov](https://codecov.io/gh/MrPop2213/Supernova/branch/master/graph/badge.svg)](https://codecov.io/gh/MrPop2213/Supernova) [![Coverage Status](https://coveralls.io/repos/github/MrPop2213/Supernova/badge.svg?branch=master)](https://coveralls.io/github/MrPop2213/Supernova?branch=master)
