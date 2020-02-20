@@ -1,0 +1,3 @@
+module Observations
+
+end # module

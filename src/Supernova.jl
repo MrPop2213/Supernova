@@ -1,5 +1,6 @@
 module Supernova
 
-greet() = print("Hello World!")
+include("Observations.jl")
+include("SupernovaSerialization.jl")
 
 end # module
