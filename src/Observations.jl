@@ -1,3 +1,0 @@
-module Observations
-
-end # module
